@@ -12,9 +12,9 @@ module.exports = function () {
             { id: 5, area: "Sunshine Springs", description: "Don't forget your sunscreen!", timeSlot: "12:00 - 15:00", price: 300 },
             { id: 6, area: "Sunshine Springs", description: "Don't forget your sunscreen!", timeSlot: "15:00 - 18:00", price: 300 },
             
-            { id: 7, area: "Ponderosa Pines", description: "Great for the grandparents (NOT A RETIREMENT HOME)", timeSlot: "9:00 - 12:00", price: 325 },
-            { id: 8, area: "Ponderosa Pines", description: "Great for the grandparents (NOT A RETIREMENT HOME)", timeSlot: "12:00 - 15:00", price: 325 },
-            { id: 9, area: "Ponderosa Pines", description: "Great for the grandparents (NOT A RETIREMENT HOME)", timeSlot: "15:00 - 18:00", price: 325 },
+            { id: 7, area: "Shady Pines", description: "Great for the grandparents (NOT A RETIREMENT HOME)", timeSlot: "9:00 - 12:00", price: 325 },
+            { id: 8, area: "Shady Pines", description: "Great for the grandparents (NOT A RETIREMENT HOME)", timeSlot: "12:00 - 15:00", price: 325 },
+            { id: 9, area: "Shady Pines", description: "Great for the grandparents (NOT A RETIREMENT HOME)", timeSlot: "15:00 - 18:00", price: 325 },
             
             { id: 10, area: "\"Paradise\"", description: "You can check out anytime you like, but you can never leave.", timeSlot: "9:00 - 12:00", price: 350 },
             { id: 11, area: "\"Paradise\"", description: "You can check out anytime you like, but you can never leave.", timeSlot: "12:00 - 15:00", price: 350 },
